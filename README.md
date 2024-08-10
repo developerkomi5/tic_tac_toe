@@ -1,6 +1,6 @@
 # tic_tac_toe
 
-A new Flutter project.
+Tic Tac Toe Game for learning the basics concept of Flutter and Dart.
 
 ## Getting Started
 
