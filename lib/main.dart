@@ -15,10 +15,10 @@ class MyApp extends StatelessWidget {
       title: "Tic Tac Toe",
       theme: ThemeData().copyWith(
         colorScheme: ColorScheme.fromSeed(
-          seedColor: Colors.deepPurple,
+          seedColor: Colors.white,
         ),
-        shadowColor: const Color(0xFF001456),
-        splashColor: const Color(0xFF4169e8),
+        shadowColor: Color.fromARGB(255, 76, 0, 86),
+        splashColor: Color.fromARGB(255, 193, 65, 232),
         useMaterial3: true,
       ),
       home: const HomePage(),

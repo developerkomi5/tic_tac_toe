@@ -138,8 +138,8 @@ class _HomePageState extends State<HomePage> {
                                 : '',
                         style: TextStyle(
                           color: Player.playerX.contains(index)
-                              ? Colors.blue
-                              : Colors.pink,
+                              ? Colors.cyan
+                              : Colors.yellow,
                           fontSize: 52,
                         ),
                       ),
